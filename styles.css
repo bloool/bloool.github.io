@@ -1,13 +1,18 @@
 body {
-    background-color: powderblue;
-}
-
-h1 {
-    font-size: larger;
-    color: orange;
+    background-color: #221611;
     font-family: verdana;
 }
 
-p {
-    color: #020218;
+h1 {
+    font-size: 300%;
+    color: orange;
+}
+
+h2, h3, h4, h6, p {
+    color: whitesmoke;
+}
+
+pre {
+    font-size: 170%;
+    color: whitesmoke;
 }
